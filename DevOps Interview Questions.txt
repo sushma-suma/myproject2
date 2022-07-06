@@ -1,0 +1,51 @@
+DOCKER INTERVIEW QUESTIONS:    
+==============================
+
+1. Virtualization
+
+2. Containarization
+
+3. Docker comes in 2 flavours?  
+
+4. Adavantages of Docker? (FAIQ) 
+
+5. Explain the architecture of docker? (FAIQ)
+
+6. If the interviewer is asking u can migrate from one OS to another OS? (FAIQ)
+       or
+   Is it possible to migrate the containers from windows machine to linux machine?
+
+7. What is Images & Containers?
+
+8. Can u explain what is the docker containers life cycle?
+
+9. What is the diff b/w COPY and ADD in dockerfile? (100% surely asking in interviews)
+
+  ans. Both COPY and ADD have the capability to copy files from the host machine into the customize image
+  
+  not container, but ADD can also download files from remote servers, COPy can't do that. [OR]
+
+  ans. COPY simply the copy files which are present on the host machine into customized image we are creating
+  
+  where as ADD can do the same thing apart from that ADD also can download files from some remote servers into
+  
+  the customized images.
+
+10. What is CMD and ENTRYPOINT in dockerfile? (100% surely asking in interviews)
+
+11. What is Dockercache or Cachebursting? (FAIQ)
+
+
+
+JENKINS IQ's:
+================================================
+
+1. Where do u see logs of Jenkins?
+
+Ans. Console Output: is the location where the logs of jenkins will come.Those logs will be seen in the
+     
+     Console Output.
+
+
+
+
